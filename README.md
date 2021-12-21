@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=250&section=header&text=Ko%20Seram%20&fontAlign=30&fontSize=90&textBg=true&animation=fadeIn&fontAlignY=50&desc=SLAM%20마스터가%20되고싶은%20대학생&descAlignY=51&descAlign=75)
+![header](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=180&section=header&text=Ko%20Seram%20&fontAlign=30&fontSize=90&textBg=true&animation=fadeIn&fontAlignY=50&desc=SLAM%20마스터가%20되고싶은%20대학생&descAlignY=51&descAlign=75)
 
 <a href=https://github.com/Seram-Ko/>![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 <!--
@@ -55,4 +55,6 @@
 
 ### Mando Autonomous Driving Contest
 :point_right: [Data Visualize]<!--(https://github.com/choyoungjin0928/python_visualize_project)--> 
+
+![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=60&section=footer)
 
