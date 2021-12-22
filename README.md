@@ -51,10 +51,10 @@
 ### Programmers K-digital training Autonomous-driving Dev Course
 :point_right: [Second Month Project - Programmers Line Following Project](https://github.com/PROGRAMMERS-TEAM-C/Project2)<br>
 :point_right: [Fourth Month Project - Programmers Mission Execution Project](https://github.com/PROGRAMMERS-TEAM-C/Project4)<br>
-:point_right: [Final Project]<!--(https://github.com/gravity101/Final_Project_TeamC)--> 
+:point_right: [Final Project](https://github.com/gravity101/Final_Project_TeamC)
 
 ### Mando Autonomous Driving Contest
-:point_right: [Mando Autonomous Driving Contest]<!--(https://github.com/choyoungjin0928/Mando-Autonomous-Driving-Competition)--> 
+:point_right: [Mando Autonomous Driving Contest](https://github.com/choyoungjin0928/Mando-Autonomous-Driving-Competition)
 
 ![footer](https://capsule-render.vercel.app/api?type=rect&color=timeGradient&height=60&section=footer)
 
